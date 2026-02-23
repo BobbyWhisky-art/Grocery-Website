@@ -2,6 +2,7 @@ import React from 'react'
 import grocery from '../../assets/grocery.png'
 import Button from '../Button/Button'
 
+
 const Hero = () => {
     return (
         <section>
